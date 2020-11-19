@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+    <link rel="stylesheet" href="static/project2.css">
+</head>
+<body>
+    <h1>NYT's Movie Review Search</h1>
+    <form action="" method="POST" name="sample">
+        {{ form.csrs_token }}
+        <p>
+            Enter a keyword: {{ form.keyword }}
+        </p>
+        <p>
+            Order search results by: {{ form.orderBy }}
+        </p>
+        <p>
+            Would you like to see the NYT critics' picks?
+            {{ form.critics_Picks }}
+        </p>
+        <p>
+            <input type="submit" value="Submit">
+        </p>
+</body>
+</html>

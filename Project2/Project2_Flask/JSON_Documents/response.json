@@ -1,0 +1,348 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "has_more": true,
+  "num_results": 20,
+  "results": [
+    {
+      "display_title": "Gone With the Wind",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "FRANK S. NUGENT",
+      "headline": "Gone With the Wind",
+      "summary_short": "Margaret Mitchell's Old South classic. Forever young.",
+      "publication_date": "1939-12-20",
+      "opening_date": "1940-01-17",
+      "date_updated": "2017-11-02 04:17:01",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1939/12/20/archives/the-screen-in-review-david-selznicks-gone-with-the-wind-has-its.html",
+        "suggested_link_text": "Read the New York Times Review of Gone With the Wind"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "The Trouble With Harry",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "BOSLEY CROWTHER",
+      "headline": "Trouble With Harry, The",
+      "summary_short": "Reappearing corpse and whimsical rustics, via Hitchcock. Lovely foliage.",
+      "publication_date": "1955-10-18",
+      "opening_date": "1955-10-03",
+      "date_updated": "2017-11-02 04:17:17",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1955/10/18/archives/screen-the-trouble-with-harry-whimsical-film-from-hitchcock-at.html",
+        "suggested_link_text": "Read the New York Times Review of The Trouble With Harry"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Rebel Without a Cause",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "BOSLEY CROWTHER",
+      "headline": "Rebel without a Cause",
+      "summary_short": "Troubled middle-class teenagers. Original, moody, often touching.",
+      "publication_date": "1955-10-27",
+      "opening_date": "1955-10-27",
+      "date_updated": "2017-11-02 04:17:17",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1955/10/27/archives/the-screen-delinquency-rebel-without-cause-has-debut-at-astor.html",
+        "suggested_link_text": "Read the New York Times Review of Rebel Without a Cause"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "The Man With the Golden Arm",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "BOSLEY CROWTHER",
+      "headline": "Man With the Golden Arm, The",
+      "summary_short": "Chicago drug addict. Boldly thrusting for back then.",
+      "publication_date": "1955-12-16",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:15:54",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1955/12/16/archives/narcotics-addict-man-with-golden-arm-opens-at-victoria.html",
+        "suggested_link_text": "Read the New York Times Review of The Man With the Golden Arm"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Girl With a Suitcase",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "BOSLEY CROWTHER",
+      "headline": "Girl With a Suitcase (Movie)",
+      "summary_short": "",
+      "publication_date": "1961-09-12",
+      "opening_date": "1961-09-11",
+      "date_updated": "2017-11-02 04:17:20",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1961/09/12/archives/screen-girl-with-a-suitcase-opensitalian-film-in-premiere-at-2.html",
+        "suggested_link_text": "Read the New York Times Review of Girl With a Suitcase"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "The Loneliness of the Long Distance Runner",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "BOSLEY CROWTHER",
+      "headline": "Loneliness of the Long Distance Runner, The (Movie)",
+      "summary_short": "Young man in British reformatory. Strong and bleak.",
+      "publication_date": "1962-10-09",
+      "opening_date": "1962-10-08",
+      "date_updated": "2017-11-02 04:17:20",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1962/10/09/archives/screen-the-long-distance-runner-movie-by-alan-sillitoe-views-angry.html",
+        "suggested_link_text": "Read the New York Times Review of The Loneliness of the Long Distance Runner"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Citizens Band",
+      "mpaa_rating": "PG",
+      "critics_pick": 1,
+      "byline": "JANET MASLIN",
+      "headline": "Handle With Care (Citizens' Band) (Movie)",
+      "summary_short": "CB-radio addict in hot water. Funny and original, via Jonathan Demme. Sporting cast.",
+      "publication_date": "1977-09-30",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:16:04",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1977/09/30/archives/film-festival-good-buddies.html",
+        "suggested_link_text": "Read the New York Times Review of Citizens Band"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "My Dinner With Andre",
+      "mpaa_rating": "PG",
+      "critics_pick": 1,
+      "byline": "Vincent Canby",
+      "headline": "MY DINNER WITH ANDRE (MOVIE)",
+      "summary_short": "Scintillating table talk, via Louis Malle.",
+      "publication_date": "1981-10-08",
+      "opening_date": "1981-10-11",
+      "date_updated": "2017-11-02 04:17:31",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1981/10/08/movies/malle-s-provocative-table-talk-in-my-dinner-with-andre.html",
+        "suggested_link_text": "Read the New York Times Review of My Dinner With Andre"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Dance With a Stranger",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "Vincent Canby",
+      "headline": "DANCE WITH A STRANGER (MOVIE)",
+      "summary_short": "Doomed, worldly London woman. Gritty drama, superbly played.",
+      "publication_date": "1985-08-09",
+      "opening_date": "1985-08-09",
+      "date_updated": "2017-11-02 04:17:34",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1985/08/09/movies/screen-dance-with-a-stranger.html",
+        "suggested_link_text": "Read the New York Times Review of Dance With a Stranger"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "A Room With A View",
+      "mpaa_rating": "Not Rated",
+      "critics_pick": 1,
+      "byline": "Vincent Canby",
+      "headline": "ROOM WITH A VIEW, A (MOVIE)",
+      "summary_short": "Tasteful, imaginative version of Forster's novel about Edwardian love. Most appealing.",
+      "publication_date": "1986-03-07",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:16:08",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1986/03/07/movies/the-screen-room-with-a-view.html",
+        "suggested_link_text": "Read the New York Times Review of A Room With A View"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Dances With Wolves",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "Vincent Canby",
+      "headline": "DANCE WITH WOLVES (MOVIE)",
+      "summary_short": "Union soldier on Sioux turf. Spacious, teeming, often striking.",
+      "publication_date": "1990-11-09",
+      "opening_date": "1990-11-21",
+      "date_updated": "2017-11-02 04:17:42",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1990/11/09/movies/review-film-a-soldier-at-one-with-the-sioux.html",
+        "suggested_link_text": "Read the New York Times Review of Dances With Wolves"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Men With Guns",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "Janet Maslin",
+      "headline": "Men With Guns (Movie)  ",
+      "summary_short": "Doctor in Latin American civil war. Vivid allegory, via Sayles.",
+      "publication_date": "1998-03-06",
+      "opening_date": "1998-03-27",
+      "date_updated": "2017-11-02 04:17:55",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1998/03/06/movies/film-review-an-unsuspecting-traveler-loses-his-illusions-step-by-harrowing-step.html",
+        "suggested_link_text": "Read the New York Times Review of Men With Guns"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Without Limits",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "Janet Maslin",
+      "headline": "Without Limits (Movie)  ",
+      "summary_short": "Long-distance runner Steve Prefontaine. Stirring.",
+      "publication_date": "1998-09-11",
+      "opening_date": "1998-09-11",
+      "date_updated": "2017-11-02 04:17:56",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1998/09/11/movies/film-review-finishing-first-even-when-he-didn-t.html",
+        "suggested_link_text": "Read the New York Times Review of Without Limits"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Election",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "Janet Maslin",
+      "headline": "Election (Movie)  ",
+      "summary_short": "High school political campaign. Smart, acerbic satire.",
+      "publication_date": "1999-04-23",
+      "opening_date": "1999-05-07",
+      "date_updated": "2017-11-02 04:17:57",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1999/04/23/movies/film-review-the-candidate-dirty-tricks-and-even-dirtier-minds.html",
+        "suggested_link_text": "Read the New York Times Review of Election"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Ride With the Devil",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "STEPHEN HOLDEN",
+      "headline": "Ride With the Devil (Movie)",
+      "summary_short": "This contemplative Civil War epic, instead of concentrating on the major battles, looks at the outskirts of the conflict \u2014 the Kansas-Missouri border \u2014 where Confederate and Union guerrillas raid each other's outposts. The dramatic high point is a re-creation of Quantrill's Raid, in which a Confederate force swooped down on Lawrence, Kan., massacring 150 people. Tobey Maguire and Skeet Ulrich are childhood friends on the Confederate side, and the pop star Jewel (in her movie debut) is a young widow they both love. Even cooler in tone than &quot;The Ice Storm,&quot; the movie is visually stunning and historically provocative but dramatically flat. \u2014 Stephen Holden",
+      "publication_date": "1999-11-24",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:16:14",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1999/11/24/movies/film-review-far-from-gettysburg-a-heartland-torn-apart.html",
+        "suggested_link_text": "Read the New York Times Review of Ride With the Devil"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Riding in Cars With Boys",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "Stephen Holden",
+      "headline": "Riding in Cars With Boys (Movie)  ",
+      "summary_short": "Drew Barrymore carries this uneven but ultimately rewarding screen adaptation of Beverly Donofrio's memoir with the sheer force of her plucky charm. The comedy-drama, which covers two decades (1965-85), follows the travails of a young working-class Connecticut woman with  literary ambitions who at 15 is forced into a dead-end marriage by an accidental  pregnancy. Steve Zahn is wonderful as her dimwitted but devoted husband who becomes a heroin addict. - Stephen Holden\r\n",
+      "publication_date": "2001-10-19",
+      "opening_date": "2001-10-19",
+      "date_updated": "2017-11-02 04:18:00",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2001/10/19/movies/film-review-a-girl-s-charmed-life-detours-down-a-bumpy-road.html",
+        "suggested_link_text": "Read the New York Times Review of Riding in Cars With Boys"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "The Man Without a Past",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "A. O. Scott",
+      "headline": "Man Without a Past, The (Movie)",
+      "summary_short": "The impish Aki Kaurismaki, whose previous film was the black-and-white, silent &quot;Juha,&quot; fills this proletarian fable with music and color. The hero, a jowly, sad-faced welder (Markku Peltola), wakes up after a vicious mugging to find himself suffering from complete amnesia. But his state of dislocation turns out also to be a state of grace, as he finds friendship in a shipping-container shanty-town and love with a Salvation Army worker (Kati Outinen). The movie, with its easy, graceful humor and its plainspoken sense of decency, recalls the great populist films of the 1930's and early 40's: there are traces of Charlie Chaplin, Preston Sturges and Frank Capra in Mr. Kaurismaki's democractic aesthetic, and like them he has made a simple, poignant comedy whose intended audience is nothing less than the human race. \u2014 A. O. Scott",
+      "publication_date": "2002-10-02",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:16:21",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2002/10/02/movies/film-festival-reviews-losing-memories-but-gaining-a-life.html",
+        "suggested_link_text": "Read the New York Times Review of The Man Without a Past"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Rivers and Tides: Andy Goldsworthy Working With Time",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "Stephen Holden",
+      "headline": "Rivers and Tides: Andy Goldsworthy Working With Time (Movie)  ",
+      "summary_short": "Anyone who has built a sand castle by the edge of the sea and paused to observe the rising tide creep in and wash it away, can sink into the contemplative world of Andy Goldsworthy, the Scottish artist profiled in Thomas Riedelsheimer's documentary. This bearded, soft-spoken 46-year-old dreamer works mostly outdoors, creating mutable sculptures that he calls earthworks. As the film's images accumulate, the movie becomes a sustained and ultimately refreshing meditation on surrender to the idea of temporality. If Mr. Goldsworthy's humility in the face of change reminds us that all is vanity, his playfulness also reminds us that a fervent engagement in the moment is in its own way infinite. &#151; Stephen Holden\n",
+      "publication_date": "2003-01-02",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:16:21",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2003/01/02/movies/film-review-treasuring-the-shifting-sands-of-art.html",
+        "suggested_link_text": "Read the New York Times Review of Rivers and Tides: Andy Goldsworthy Working With Time"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "I Want Someone to Eat Cheese With",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "MATT ZOLLER SEITZ",
+      "headline": "Seeking Special Someone but Finding a Giant Pirate",
+      "summary_short": "Imagine Larry David\u2019s HBO\u2019s series, \u201cCurb Your Enthusiasm,\u201d without the bile. That\u2019s the tone of \u201cI Want Someone to Eat Cheese With.\u201d ",
+      "publication_date": "2007-09-05",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:16:23",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2007/09/05/movies/05chee.html",
+        "suggested_link_text": "Read the New York Times Review of I Want Someone to Eat Cheese With"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Sommaren Med Monika",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "MANOHLA DARGIS",
+      "headline": "After 5 Decades, Still Igniting the Screen",
+      "summary_short": "More than 50 years after its first screening in America, \u201cMonika\u201d arrives in New York again to light up the screen, this time without a trace of impropriety.",
+      "publication_date": "2007-11-14",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:15:53",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2007/11/14/movies/14moni.html",
+        "suggested_link_text": "Read the New York Times Review of Sommaren Med Monika"
+      },
+      "multimedia": null
+    }
+  ]
+}
