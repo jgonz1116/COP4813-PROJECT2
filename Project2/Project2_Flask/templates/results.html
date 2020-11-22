@@ -2,18 +2,44 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Results</title>
+    <title>NYT Search Results</title>
+    <style>
+        body {
+            background-color: linen;
+            text-align: center
+        }
+
+        h1 {
+            color: maroon;
+            margin-left: 40px;
+            text-align: center
+        }
+        table {
+            border: double;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        table td { border-left: 1px solid #000; }
+        table td:first-child { border-left: none; }
+    </style>
 </head>
 <body>
-    <h1>Sample Form</h1>
-    <form action="" method="POST" name="sample">
-        {{ form.csrs_token }}
-        <p>
-            First name: {{ form.first_name }}
-        </p>
-        <p>
-            <input type="submit" value="Submit">
-        </p>
-    </form>
+    <h1>Here are your results:</h1>
+    <table>
+        <tr>
+            <th>Movie title</th>
+            <th>Critic</th>
+            <th>Date of publication</th>
+            <th>Hyperlink</th>
+        </tr>
+        {% for i in range(0, len) %}
+            <tr>
+                <td>{{ titles[i] }}</td>
+                <td>{{ critics[i] }}</td>
+                <td>{{ publicationDates[i] }}</td>
+                <td><a href={{ reviewLinks[i] }}>Link</a></td>
+            </tr>
+        {% endfor %}
+    </table>
 </body>
 </html>

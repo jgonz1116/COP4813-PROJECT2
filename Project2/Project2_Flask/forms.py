@@ -24,21 +24,20 @@ def generateDataFromAPI(keyword, order_By, critics_Picks):
     url = "https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=" + keyword + "&order=" + order_By + "&critics-pick=" + critics_Picks + "&api-key=" + my_key
     response = requests.get(url).json()
     main_functions.save_to_file(response, "Project2_Flask/JSON_Documents/response.json")
-    data_requested = main_functions.read_from_file("Project2_Flask/JSON_Documents/response.json")
-    #data_requested = {}
+    response_dict = main_functions.read_from_file("Project2_Flask/JSON_Documents/response.json")
+    data_requested = {}
     movieTitles = []
-    for i in data_requested["results"]:
+    for i in response_dict["results"]:
         movieTitles.append(i["display_title"])
     critics = []
-    for i in data_requested["results"]:
+    for i in response_dict["results"]:
         critics.append(i["byline"])
     publicationDates = []
-    for i in data_requested["results"]:
+    for i in response_dict["results"]:
         publicationDates.append(i["publication_date"])
     reviewUrls = []
-    for i in data_requested["results"]:
-        for j in data_requested["link"]:
-            reviewUrls.append(j["url"])
+    for i in response_dict["results"]:
+        reviewUrls.append(i["link"]["url"])
     """From the response dictionary, you need to filter the data requested by the user"""
     data_requested["titles"] = movieTitles
     data_requested["critics"] = critics
