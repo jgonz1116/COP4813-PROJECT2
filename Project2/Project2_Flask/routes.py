@@ -9,7 +9,6 @@ def searchReviews():
         keyword = request.form['keyword']  # this variable is assigned to the option selected by the user
         orderBy = request.form['orderBy']
         critics_Picks = request.form['critics_Picks']
-        """TO BE CONTINUED"""
         response = forms.generateDataFromAPI(keyword, orderBy, critics_Picks)
         # Get the values provided by the user
         # Call the API
